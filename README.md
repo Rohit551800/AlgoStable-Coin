@@ -112,19 +112,7 @@ get-balance - Returns account balance
 get-token-info - Returns comprehensive token information
 
 Contract Address Details
-ST2GXWQG095N600TJM56YHFXRBNQYSC3YQA7HMKSS.Algostable_coin
-Contract addresses will be updated upon deployment to Stacks mainnet and testnet.
-Mainnet
-
-Contract Address: [To be updated after mainnet deployment]
-Transaction ID: [To be updated after mainnet deployment]
-Block Height: [To be updated after mainnet deployment]
-
-Testnet
-
-Contract Address: [To be updated after testnet deployment]
-Transaction ID: [To be updated after testnet deployment]
-Block Height: [To be updated after testnet deployment]
+Contract_Id : ST2GXWQG095N600TJM56YHFXRBNQYSC3YQA7HMKSS.Algostable_coin
 
 Getting Started
 Prerequisites
