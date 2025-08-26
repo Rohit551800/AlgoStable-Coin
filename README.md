@@ -156,6 +156,7 @@ License
 This project is open-source and available under the MIT License.
 Disclaimer
 AlgoStable Coin is experimental technology. Cryptocurrency investments carry inherent risks. Please conduct your own research and consider the risks before participating in any token transactions or smart contract interactions.
-<img width="485" height="761" alt="Screenshot 2025-08-26 105922" src="https://github.com/user-attachments/assets/19ed1b90-1bf2-458e-87d2-5f7f77541b06" />
+<img width="1870" height="799" alt="image" src="https://github.com/user-attachments/assets/88f720a5-c799-47a9-9053-74068c082a99" />
+
 
 
